@@ -1,7 +1,7 @@
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css);
 
 .filters {
-  background: white;
+  //   background: rgb(209, 173, 173);
   width: 100%;
   li {
     display: inline-block;
@@ -9,7 +9,7 @@
     padding: 3px;
     label {
       display: block;
-      font-size: 12px;
+      font-size: 15px;
       font-weight: 900;
     }
     input {
@@ -19,6 +19,16 @@
       width: 100%;
     }
   }
+}
+.header {
+  padding: 30px;
+  text-align: center;
+  background-image: url("https://thumbs.gfycat.com/CreativeIncredibleAmericanredsquirrel.webp");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  color: rgba(77, 126, 139, 0.822);
+  font-size: 20px;
 }
 .widget {
   position: relative;
